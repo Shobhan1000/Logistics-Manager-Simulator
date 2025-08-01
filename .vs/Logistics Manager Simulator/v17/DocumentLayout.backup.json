@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|c:\\users\\shobh\\other\\programming\\logistics manager simulator\\assets\\scripts\\vehiclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\vehiclesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|c:\\users\\shobh\\other\\programming\\logistics manager simulator\\assets\\scripts\\vehiclebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\bankinterestratesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bankinterestratesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\loanbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loanbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\loaninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loaninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\bankui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bankui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\addth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\addth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\timeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\thinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\transactionhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transactionhistories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\loanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loanui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\scriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\depotinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\depotinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\depots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\depots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\startmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\assets\\scripts\\openapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B669363-7E75-2C3C-708E-E152D0B309C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\openapps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleButton.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehicleButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VehicleButton.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehicleButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VehicleButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:45:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Vehicles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Vehicles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vehicles.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:18:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehicleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VehicleSpawner.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehicleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VehicleSpawner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:20:00.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehiclesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VehiclesUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\VehiclesUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VehiclesUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:36:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "THInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\THInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\THInfo.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\THInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\THInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:59:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddTH.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\AddTH.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AddTH.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\AddTH.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AddTH.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:56:49.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankInterestRateSystem.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\BankInterestRateSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BankInterestRateSystem.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\BankInterestRateSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BankInterestRateSystem.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAIAwwEoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:23:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Depots.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Depots.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Depots.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Depots.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Depots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:38:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScriptManager.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\ScriptManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptManager.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\ScriptManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:20:56.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\StartMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartMenuUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\StartMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:21:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OpenApps.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\OpenApps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenApps.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\OpenApps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenApps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:25:32.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Loans.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Loans.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loans.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Loans.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:53:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoanButtonHandler.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoanButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:49:32.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimeManager.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:28.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoanInfo.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoanInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T22:24:19.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TimeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimeUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TimeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:40.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionHistories.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TransactionHistories.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TransactionHistories.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\TransactionHistories.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TransactionHistories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:55:09.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\BankUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BankUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\BankUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BankUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:09:00.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DepotInfo.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\DepotInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DepotInfo.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\DepotInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DepotInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:41:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Methods.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Methods.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Methods.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Methods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:34:33.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoanUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoanUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\LoanUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoanUI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:08:04.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Data.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\Data.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:03:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeUI.cs",
+              "DocumentMoniker": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\HomeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HomeUI.cs",
+              "ToolTip": "C:\\Users\\shobh\\OTHER\\Programming\\Logistics Manager Simulator\\Assets\\Scripts\\HomeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HomeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:21:45.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

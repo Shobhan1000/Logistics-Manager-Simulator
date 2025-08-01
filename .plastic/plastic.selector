@@ -1,0 +1,4 @@
+repository "Logistics Manager Simulator/Logistics Manager Simulator@5773156840374@cloud"
+  path "/"
+    br "/main"
+    co "/main"
